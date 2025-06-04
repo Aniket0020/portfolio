@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aniket0020.github.io/portfolio",
+  "homepage": "https://aniket0020.github.io/portfolio.git",
   "scripts": {
     "dev": "vite",
     
